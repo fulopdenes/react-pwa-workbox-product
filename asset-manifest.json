@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-pwa-workbox-product/static/css/main.b3797f56.css",
-    "main.js": "/react-pwa-workbox-product/static/js/main.005a57cb.js",
+    "main.js": "/react-pwa-workbox-product/static/js/main.b8e09fa1.js",
     "static/js/787.687a3e22.chunk.js": "/react-pwa-workbox-product/static/js/787.687a3e22.chunk.js",
     "service-worker.js": "/react-pwa-workbox-product/service-worker.js",
     "index.html": "/react-pwa-workbox-product/index.html",
     "main.b3797f56.css.map": "/react-pwa-workbox-product/static/css/main.b3797f56.css.map",
-    "main.005a57cb.js.map": "/react-pwa-workbox-product/static/js/main.005a57cb.js.map",
+    "main.b8e09fa1.js.map": "/react-pwa-workbox-product/static/js/main.b8e09fa1.js.map",
     "787.687a3e22.chunk.js.map": "/react-pwa-workbox-product/static/js/787.687a3e22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3797f56.css",
-    "static/js/main.005a57cb.js"
+    "static/js/main.b8e09fa1.js"
   ]
 }
