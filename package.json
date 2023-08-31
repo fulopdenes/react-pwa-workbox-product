@@ -1,6 +1,6 @@
 {
   "name": "react-pwa-workbox-product",
-  "homepage": "https://fulopdenes.github.io/react-pwa-workbox-product/",
+  "homepage": "http://fulopdenes.github.io/react-pwa-workbox-product",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,8 +32,8 @@
     "buildnserve": "react-scripts build && serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
