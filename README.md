@@ -1,1 +1,1 @@
-# react-pwa-product
+# react-pwa-workbox-product
