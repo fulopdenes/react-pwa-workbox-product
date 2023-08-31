@@ -6,7 +6,7 @@ export default function registerServiceWorker() {
         return;
     }
         if (process.env.NODE_ENV === 'production' && 'serviceWorker' in navigator) {
-        const wb = new Workbox('/service-worker.js');
+        const wb = new Workbox('/react-pwa-workbox-product/service-worker.js');
         wb.addEventListener('installed', event => {
             if (event.isUpdate) {
                 if(window.confirm('New app update is available, Click OK to refresh')) {
